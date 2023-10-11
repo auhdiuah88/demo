@@ -1293,8 +1293,8 @@
         {
             "name": "live2",
             "type": 0,
-            "url": "./lives/live2.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+            "url": "http://www.lyyytv.cn/yt/zhibo/1.txt",
+            "epg": "http://www.lyyytv.cn/yt/zhibo/epg.php"
         }
     ],
     "flags": [
